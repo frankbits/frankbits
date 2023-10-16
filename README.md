@@ -73,6 +73,7 @@
 
 <div class="frontend">
     <b>Frontend</b>
+    <br/>
     <a href="https://www.typescriptlang.org">
         <img alt="TypeScript"
              src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
