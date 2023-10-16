@@ -159,7 +159,7 @@
     </a>
     <a href="https://gitlab.com/">
         <img align="right" alt="GitLab"
-             src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label">
+             src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
     </a>
 </div>
 
