@@ -37,7 +37,7 @@
         </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="browser">
     <b>Browser</b>
@@ -47,7 +47,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="ide">
     <b>IDE, Editor, Engine</b>
@@ -95,7 +95,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="backend">
     <b>Backend</b>
@@ -121,7 +121,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="database">
     <b>Database</b>
@@ -135,7 +135,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="framework">
     <b>Framework</b>
@@ -153,7 +153,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <div class="etc">
     <b>etc.</b>
@@ -189,7 +189,7 @@
     </a>
 </div>
 
-<span></span>
+<br/>
 
 <!-- <div class="devops">
     <a href="https://jira.com/">
@@ -198,7 +198,7 @@
     </a>
 </div>
 
-<span></span> -->
+<br/> -->
 
 
 <div class="deployment">
