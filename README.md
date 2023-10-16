@@ -37,6 +37,8 @@
         </a>
 </div>
 
+<span></span>
+
 <div class="browser">
     <b>Browser</b>
     <a href="https://www.opera.com/">
@@ -44,6 +46,8 @@
              src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
     </a>
 </div>
+
+<br/>
 
 <div class="ide">
     <b>IDE, Editor, Engine</b>
