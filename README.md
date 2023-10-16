@@ -100,10 +100,13 @@
 
 <div class="backend">
     <b>Backend</b>
-    <table align="right">
+    <table>
         <tbody>
             <tr>
                 <td>
+                    <b>Backend</b>
+                </td>
+                <td align="right">
                     <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
                         <img alt="C++"
                              src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
