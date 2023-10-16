@@ -100,13 +100,10 @@
 
 <div class="backend">
     <b>Backend</b>
-    <table>
+    <table align="right">
         <tbody>
             <tr>
                 <td>
-                    <b>Backend</b>
-                </td>
-                <td align="right">
                     <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
                         <img alt="C++"
                              src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -137,50 +134,68 @@
 
 <div class="database">
     <b>Database</b>
-    <a href="https://www.mysql.com">
-        <img align="right" alt="MySQL"
-             src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    </a>
-    <a href="https://mariadb.org">
-        <img align="right" alt="MariaDB"
-             src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-    </a>
+    <table align="right">
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://www.mysql.com">
+                        <img align="right" alt="MySQL"
+                             src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+                    </a>
+                    <a href="https://mariadb.org">
+                        <img align="right" alt="MariaDB"
+                             src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <br/>
 
 <div class="framework">
     <b>Framework</b>
-    <a href="https://vitejs.dev">
-        <img align="right" alt="Vite"
-             src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-    </a>
-    <a href="https://kit.svelte.dev">
-        <img align="right" alt="SvelteKit"
-             src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white">
-    </a>
-    <a href="https://svelte.dev">
-        <img align="right" alt="Svelte"
-             src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00">
-    </a>
+    <table align="right">
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://vitejs.dev">
+                        <img align="right" alt="Vite"
+                             src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+                    </a>
+                    <a href="https://kit.svelte.dev">
+                        <img align="right" alt="SvelteKit"
+                             src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white">
+                    </a>
+                    <a href="https://svelte.dev">
+                        <img align="right" alt="Svelte"
+                             src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <br/>
 
 <div class="etc">
     <b>etc.</b>
-    <a href="https://github.com/sveltia/sveltia-cms-auth">
-        <img align="right" alt="Sveltia CMS Auth"
-             src="https://img.shields.io/badge/Sveltia%20CMS%20Auth-ff4700?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQwMCIgeDI9IjQwMCIgeTE9IjAiIHkyPSI4MDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwOTgwYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMWQwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJiIj48cmVjdCBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPC9jbGlwUGF0aD48cmVjdCBmaWxsPSJ1cmwoI2EpIiBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPGcgc3R5bGU9ImNsaXAtcGF0aDp1cmwoI2IpO2ZpbGw6bm9uZTtzdHJva2U6I2ZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLXdpZHRoOjE4MCI%2BPHBhdGggZD0ibTMyMC04MC0yMDAgMzIwIDIwMCAzMjAtMjAwIDMyMCIvPjxwYXRoIGQ9Im00MDAgMjQwIDIwMCAzMjAgMjAwLTMyMCIvPjwvZz48L3N2Zz4%3D&labelColor=2e3338">
-    </a>
-    <a href="https://github.com/sveltia/sveltia-cms">
-        <img align="right" alt="Sveltia CMS"
-             src="https://img.shields.io/badge/Sveltia%20CMS-ff4700?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQwMCIgeDI9IjQwMCIgeTE9IjAiIHkyPSI4MDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwOTgwYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMWQwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJiIj48cmVjdCBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPC9jbGlwUGF0aD48cmVjdCBmaWxsPSJ1cmwoI2EpIiBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPGcgc3R5bGU9ImNsaXAtcGF0aDp1cmwoI2IpO2ZpbGw6bm9uZTtzdHJva2U6I2ZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLXdpZHRoOjE4MCI%2BPHBhdGggZD0ibTMyMC04MC0yMDAgMzIwIDIwMCAzMjAtMjAwIDMyMCIvPjxwYXRoIGQ9Im00MDAgMjQwIDIwMCAzMjAgMjAwLTMyMCIvPjwvZz48L3N2Zz4%3D&labelColor=2e3338">
-    </a>
-    <a href="https://daringfireball.net/projects/markdown/">
-        <img align="right" alt="Markdown"
-             src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown">
-    </a>
+    <div>
+        <a href="https://github.com/sveltia/sveltia-cms-auth">
+            <img alt="Sveltia CMS Auth"
+                 src="https://img.shields.io/badge/Sveltia%20CMS%20Auth-ff4700?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQwMCIgeDI9IjQwMCIgeTE9IjAiIHkyPSI4MDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwOTgwYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMWQwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJiIj48cmVjdCBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPC9jbGlwUGF0aD48cmVjdCBmaWxsPSJ1cmwoI2EpIiBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPGcgc3R5bGU9ImNsaXAtcGF0aDp1cmwoI2IpO2ZpbGw6bm9uZTtzdHJva2U6I2ZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLXdpZHRoOjE4MCI%2BPHBhdGggZD0ibTMyMC04MC0yMDAgMzIwIDIwMCAzMjAtMjAwIDMyMCIvPjxwYXRoIGQ9Im00MDAgMjQwIDIwMCAzMjAgMjAwLTMyMCIvPjwvZz48L3N2Zz4%3D&labelColor=2e3338">
+        </a>
+        <a href="https://github.com/sveltia/sveltia-cms">
+            <img alt="Sveltia CMS"
+                 src="https://img.shields.io/badge/Sveltia%20CMS-ff4700?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQwMCIgeDI9IjQwMCIgeTE9IjAiIHkyPSI4MDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwOTgwYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMWQwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJiIj48cmVjdCBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPC9jbGlwUGF0aD48cmVjdCBmaWxsPSJ1cmwoI2EpIiBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPGcgc3R5bGU9ImNsaXAtcGF0aDp1cmwoI2IpO2ZpbGw6bm9uZTtzdHJva2U6I2ZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLXdpZHRoOjE4MCI%2BPHBhdGggZD0ibTMyMC04MC0yMDAgMzIwIDIwMCAzMjAtMjAwIDMyMCIvPjxwYXRoIGQ9Im00MDAgMjQwIDIwMCAzMjAgMjAwLTMyMCIvPjwvZz48L3N2Zz4%3D&labelColor=2e3338">
+        </a>
+        <a href="https://daringfireball.net/projects/markdown/">
+            <img alt="Markdown"
+                 src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown">
+        </a>
+    </div>
 </div>
 
 ## DevOps
