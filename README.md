@@ -4,7 +4,7 @@
 </div>
 
 <h1 class="name" align="center">
-  frankbits 👋
+  frankbits
 </h1>
 
 <p class="info" align="center">
