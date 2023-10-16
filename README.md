@@ -74,23 +74,23 @@
 <div class="frontend">
     <b>Frontend</b>
     <a href="https://www.typescriptlang.org">
-        <img align="right" alt="TypeScript"
+        <img alt="TypeScript"
              src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     </a>
     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-        <img align="right" alt="JavaScript"
+        <img alt="JavaScript"
              src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=javascript">
     </a>
     <a href="https://sass-lang.com">
-        <img align="right" alt="SASS"
+        <img alt="SASS"
              src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
     </a>
     <a href="https://www.w3.org/TR/CSS/#css-level-3">
-        <img align="right" alt="CSS3"
+        <img alt="CSS3"
              src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
     </a>
     <a href="https://html.spec.whatwg.org/multipage/">
-        <img align="right" alt="HTML5"
+        <img alt="HTML5"
              src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white&logo=html5">
     </a>
 </div>
