@@ -47,7 +47,7 @@
     </a>
 </div>
 
-<br/>
+<span></span>
 
 <div class="ide">
     <b>IDE, Editor, Engine</b>
@@ -95,6 +95,8 @@
     </a>
 </div>
 
+<br/>
+
 <div class="backend">
     <b>Backend</b>
     <a href="">
@@ -119,6 +121,8 @@
     </a>
 </div>
 
+<br/>
+
 <div class="database">
     <b>Database</b>
     <a href="https://www.mysql.com">
@@ -130,6 +134,8 @@
              src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
     </a>
 </div>
+
+<br/>
 
 <div class="etc">
     <b>etc.</b>
