@@ -100,26 +100,60 @@
 
 <div class="backend">
     <b>Backend</b>
-    <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
-        <img align="right" alt="C++"
-             src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    </a>
-    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf">
-        <img align="right" alt="C"
-             src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-    </a>
-    <a href="https://www.python.org">
-        <img align="right" alt="Python"
-             src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-    </a>
-    <a href="https://www.php.net">
-        <img align="right" alt="PHP"
-             src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    </a>
-    <a href="https://nodejs.org">
-        <img align="right" alt="Node.js"
-             src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-    </a>
+    <table align="right">
+        <tr>
+            <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
+                <img alt="C++"
+                     src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+            </a>
+            <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf">
+                <img alt="C"
+                     src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+            </a>
+            <a href="https://www.python.org">
+                <img alt="Python"
+                     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+            </a>
+            <a href="https://www.php.net">
+                <img alt="PHP"
+                     src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+            </a>
+            <a href="https://nodejs.org">
+                <img alt="Node.js"
+                     src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+            </a>
+        </tr>
+    </table>
+</div>
+
+<div class="backend">
+    <b>Backend</b>
+    <table align="right">
+        <tbody>
+            <tr>
+                <td><a href="https://learn.microsoft.com/de-de/cpp/cpp/">
+                    <img alt="C++"
+                         src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+                </a></td>
+                <td><a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf">
+                    <img alt="C"
+                         src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+                </a></td>
+                <td><a href="https://www.python.org">
+                    <img alt="Python"
+                         src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+                </a></td>
+                <td><a href="https://www.php.net">
+                    <img alt="PHP"
+                         src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+                </a></td>
+                <td><a href="https://nodejs.org">
+                    <img alt="Node.js"
+                         src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+                </a></td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <br/>
