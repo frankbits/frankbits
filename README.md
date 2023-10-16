@@ -27,11 +27,11 @@
 
 <div class="operating-systems">
         <b>Operating Systems</b>
-        <a href="">
+        <a href="https://ubuntu.com">
             <img align="right" alt="Ubuntu"
                  src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
         </a>
-        <a href="">
+        <a href="https://www.microsoft.com/de-de/windows">
             <img align="right" alt="Windows"
                  src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
         </a>
@@ -99,19 +99,19 @@
 
 <div class="backend">
     <b>Backend</b>
-    <a href="">
+    <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
         <img align="right" alt="C++"
              src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
     </a>
-    <a href="">
+    <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf">
         <img align="right" alt="C"
              src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
     </a>
-    <a href="">
+    <a href="https://www.python.org">
         <img align="right" alt="Python"
              src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     </a>
-    <a href="">
+    <a href="https://www.php.net">
         <img align="right" alt="PHP"
              src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
     </a>
