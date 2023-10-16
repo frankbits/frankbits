@@ -1,3 +1,32 @@
+<svg fill="none" viewBox="0 0 0 0" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .backend {
+                    width: 100%;
+                }
+                main {
+                    margin: auto;
+                    max-width: 1280px;
+                }
+                .name,
+                .info,
+                .stats {
+                    text-align: center
+                }
+                .backend {
+                    display: flex;
+                    justify-content: space-between;
+                    gap: .25em;
+                }
+                .backend > :first-child {
+                    flex: 1;
+                }
+            </style>
+        </div>
+    </foreignObject>
+</svg>
+
 <div class="languages" align="right">
     <img alt="de" src="https://img.shields.io/badge/German-mother tongue-green?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPjxwYXRoIGQ9Ik0wIDBoNXYzSDB6Ii8+PHBhdGggZmlsbD0iI0QwMCIgZD0iTTAgMWg1djJIMHoiLz48cGF0aCBmaWxsPSIjRkZDRTAwIiBkPSJNMCAyaDV2MUgweiIvPjwvc3ZnPg=="/>
     <img alt="en" src="https://img.shields.io/badge/English-B2+/C1-blue?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo="/>
@@ -123,41 +152,6 @@
         </a>
     </div>
 </div>
-
-<div class="backend">
-    <table width="100%">
-        <tbody>
-        <tr>
-            <td>
-                <b>Backend</b>
-            </td>
-            <td align="right">
-                <a href="https://learn.microsoft.com/de-de/cpp/cpp/">
-                    <img alt="C++"
-                         src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-                </a>
-                <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf">
-                    <img alt="C"
-                         src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-                </a>
-                <a href="https://www.python.org">
-                    <img alt="Python"
-                         src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-                </a>
-                <a href="https://www.php.net">
-                    <img alt="PHP"
-                         src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-                </a>
-                <a href="https://nodejs.org">
-                    <img alt="Node.js"
-                         src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-                </a>
-            </td>
-        </tr>
-        </tbody>
-    </table>
-</div>
-
 
 <br/>
 
