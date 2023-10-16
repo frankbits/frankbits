@@ -95,7 +95,7 @@
     </a>
 </div>
 
-<br/>
+<span></span>
 
 <div class="backend">
     <b>Backend</b>
@@ -121,7 +121,7 @@
     </a>
 </div>
 
-<br/>
+<span></span>
 
 <div class="database">
     <b>Database</b>
@@ -135,7 +135,7 @@
     </a>
 </div>
 
-<br/>
+<span></span>
 
 <div class="etc">
     <b>etc.</b>
