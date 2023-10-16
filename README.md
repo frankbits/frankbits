@@ -163,12 +163,17 @@
     </a>
 </div>
 
+<span></span>
+
 <!-- <div class="devops">
     <a href="https://jira.com/">
         <img align="right" alt="Jira"
              src="https://badgen.net/badge/icon/jira?icon=jira&label">
     </a>
-</div> -->
+</div>
+
+<span></span> -->
+
 
 <div class="deployment">
     <b>Deployment</b>
@@ -200,6 +205,8 @@
     </a>
 </div>
 
+<span></span>
+
 <div class="cms">
     <b>CMS</b>
     <a href="https://github.com/sveltia/sveltia-cms">
@@ -212,6 +219,8 @@
     </a>
 </div>
 
+<span></span>
+
 <div class="icons">
     <b>Icons</b>
     <a href="https://lucide.dev">
@@ -219,6 +228,8 @@
              src="https://img.shields.io/badge/Lucide-1b1b1f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBzdHJva2U9ImN1cnJlbnRDb2xvciIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCiAgaWQ9Imx1Y2lkZS1sb2dvIgo+CiAgPHBhdGggZD0iTTE0IDEyQzE0IDkuNzkwODYgMTIuMjA5MSA4IDEwIDhDNy43OTA4NiA4IDYgOS43OTA4NiA2IDEyQzYgMTYuNDE4MyA5LjU4MTcyIDIwIDE0IDIwQzE4LjQxODMgMjAgMjIgMTYuNDE4MyAyMiAxMkMyMiA4LjQ0NiAyMC40NTUgNS4yNTI4NSAxOCAzLjA1NTU3IiBzdHJva2U9IiNmZmYiIC8+CiAgPHBhdGggZD0iTTEwIDEyQzEwIDE0LjIwOTEgMTEuNzkwOSAxNiAxNCAxNkMxNi4yMDkxIDE2IDE4IDE0LjIwOTEgMTggMTJDMTggNy41ODE3MiAxNC40MTgzIDQgMTAgNEM1LjU4MTcyIDQgMiA3LjU4MTcyIDIgMTJDMiAxNS41ODQxIDMuNTcxMjcgMTguODAxMiA2LjA2MjUzIDIxIiBzdHJva2U9IiNGNTY1NjUiIC8+Cjwvc3ZnPgo=">
     </a>
 </div>
+
+<span></span>
 
 <div class="etc">
     <b>etc.</b>
