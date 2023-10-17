@@ -164,6 +164,10 @@
         <img alt="MariaDB"
              src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
     </a>
+    <a href="https://www.postgresql.org">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+    </a>
 </div>
 
 <br>
