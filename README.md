@@ -19,9 +19,8 @@
   📫 How to reach me: <a href='mailto:frankbits@gmail.com'>frankbits@gmail.com</a>
 </p> -->
 
-<!-- <details>
-  <summary>📃 Resume</summary> 
-  </details> -->
+<details>
+    <summary>🖥️ Setup</summary>
 
 ## Setup
 
@@ -71,6 +70,9 @@
              src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white">
     </a>
 </div>
+
+</details>
+
 <details>
     <summary>📦 Projects</summary>
 
@@ -91,6 +93,9 @@
   **Artist-Website built with SvelteKit**
 
 </details>
+
+<details>
+    <summary>👩🏻‍💻 Programming</summary>
 
 ## Programming
 
@@ -199,6 +204,11 @@
     </a>
 </div>
 
+</details>
+
+<details>
+    <summary>🏗️ DevOps</summary>
+
 ## DevOps
 
 <div class="vcs">
@@ -243,6 +253,8 @@
              src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logoColor=white&logo=cloudflare">
     </a>
 </div>
+
+</details>
 
 <!--
 **frankbits/frankbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
