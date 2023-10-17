@@ -149,6 +149,10 @@
         <img alt="C++"
              src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
     </a>
+    <a href="https://www.rust-lang.org">
+        <img alt="Rust"
+             src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+    </a>
 </div>
 
 <br>
