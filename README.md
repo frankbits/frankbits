@@ -71,6 +71,26 @@
              src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white">
     </a>
 </div>
+<details>
+    <summary>📦 Projects</summary>
+
+## Projects
+
+- 2021 - [**Taste of Spirits**](https://showcase.informatik.tha.de/sose2021/taste-of-spirits):
+  (Platz 3 im Wettbewerb Beste Semesterprojekte)
+
+  **Ein Lexikon für über 50000 Spirituosen**
+- 2022 - [**Taste Of Spirits 2.0**](https://showcase.informatik.tha.de/sose-2022/taste-of-spirits-2-0):
+
+  **Mehr als nur ein Lexikon für über 50.000 Spirituosen, ein ganzes Wiki für die Welt der Spirituosen!**
+- 2023 - [**Singtonic Vocal Pop Ensemble**](https://singtonic.net/):
+
+  **Acapella-Group-Website built with SvelteKit**
+- in development - **Anette Niedermeier**:
+
+  **Artist-Website built with SvelteKit**
+
+</details>
 
 ## Programming
 
