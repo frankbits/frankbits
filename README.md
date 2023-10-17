@@ -222,6 +222,10 @@
         <img alt="Sveltia CMS Auth"
              src="https://img.shields.io/badge/Sveltia%20CMS%20Auth-ff4700?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGxpbmVhckdyYWRpZW50IGlkPSJhIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQwMCIgeDI9IjQwMCIgeTE9IjAiIHkyPSI4MDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2YwOTgwYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMWQwMCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJiIj48cmVjdCBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPC9jbGlwUGF0aD48cmVjdCBmaWxsPSJ1cmwoI2EpIiBoZWlnaHQ9IjgwMCIgcng9IjgwIiB3aWR0aD0iODAwIi8%2BPGcgc3R5bGU9ImNsaXAtcGF0aDp1cmwoI2IpO2ZpbGw6bm9uZTtzdHJva2U6I2ZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLXdpZHRoOjE4MCI%2BPHBhdGggZD0ibTMyMC04MC0yMDAgMzIwIDIwMCAzMjAtMjAwIDMyMCIvPjxwYXRoIGQ9Im00MDAgMjQwIDIwMCAzMjAgMjAwLTMyMCIvPjwvZz48L3N2Zz4%3D&labelColor=2e3338">
     </a>
+    <a href="https://lodash.com">
+        <img alt="Lodash"
+             src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white"">
+    </a>
 </div>
 
 </details>
