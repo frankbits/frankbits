@@ -25,7 +25,7 @@
 
 ## Setup
 
-<div class="operating-systems" align="center">
+<div class="operating-systems">
         <b>Operating Systems</b>
         <br>
         <a href="https://www.microsoft.com/de-de/windows">
@@ -40,7 +40,7 @@
 
 <br>
 
-<div class="browser" align="center">
+<div class="browser">
     <b>Browser</b>
     <br>
     <a href="https://www.opera.com/">
@@ -51,7 +51,7 @@
 
 <br>
 
-<div class="ide" align="center">
+<div class="ide">
     <b>IDE, Editor, Engine</b>
     <br>
     <a href="https://www.jetbrains.com/">
@@ -74,7 +74,7 @@
 
 ## Programming
 
-<div class="frontend" align="center">
+<div class="frontend">
     <b>Frontend</b>
     <br>
     <a href="https://html.spec.whatwg.org/multipage/">
@@ -101,7 +101,7 @@
 
 <br>
 
-<div class="backend" align="center">
+<div class="backend">
     <b>Backend</b>
     <br>
     <a href="https://nodejs.org">
@@ -128,7 +128,7 @@
 
 <br>
 
-<div class="database" align="center">
+<div class="database">
     <b>Database</b>
     <br>
     <a href="https://www.mysql.com">
@@ -143,7 +143,7 @@
 
 <br>
 
-<div class="framework" align="center">
+<div class="framework">
     <b>Framework</b>
     <br>
     <a href="https://svelte.dev">
@@ -162,7 +162,7 @@
 
 <br>
 
-<div class="etc" align="center">
+<div class="etc">
     <b>etc.</b>
     <br>
     <a href="https://daringfireball.net/projects/markdown/">
@@ -181,7 +181,7 @@
 
 ## DevOps
 
-<div class="vcs" align="center">
+<div class="vcs">
     <b>VCS</b>
     <br>
     <a href="http://git-scm.com/">
@@ -200,7 +200,7 @@
 
 <br>
 
-<!-- <div class="devops" align="center">
+<!-- <div class="devops">
     <br>
     <a href="https://jira.com/">
         <img alt="Jira"
@@ -211,7 +211,7 @@
 <br> -->
 
 
-<div class="deployment" align="center">
+<div class="deployment">
     <b>Deployment</b>
     <br>
     <a href="https://pages.cloudflare.com">
