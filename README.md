@@ -122,6 +122,14 @@
         <img alt="TypeScript"
              src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     </a>
+    <a href="https://getbootstrap.com">
+        <img alt="Bootstrap"
+             src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+    </a>
+    <a href="https://jquery.com">
+        <img alt="jQuery"
+             src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+    </a>
 </div>
 
 <br>
