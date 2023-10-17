@@ -141,10 +141,6 @@
         <img alt="Node.js"
              src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
     </a>
-    <a href="https://www.php.net">
-        <img alt="PHP"
-             src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    </a>
     <a href="https://www.python.org">
         <img alt="Python"
              src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -160,6 +156,14 @@
     <a href="https://www.rust-lang.org">
         <img alt="Rust"
              src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+    </a>
+    <a href="https://www.php.net">
+        <img alt="PHP"
+             src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+    </a>
+    <a href="https://symfony.com">
+        <img alt="Symfony"
+             src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white">
     </a>
 </div>
 
