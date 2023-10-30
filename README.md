@@ -88,7 +88,7 @@
 - 2023 - [**Singtonic Vocal Pop Ensemble**](https://singtonic.net/):
 
   **Acapella-Group-Website built with SvelteKit**
-- in development - **Anette Niedermeier**:
+- 2023 - [**Anette Niedermeier**](https://anetteniedermeier.de/):
 
   **Artist-Website built with SvelteKit**
 
