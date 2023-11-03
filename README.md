@@ -79,10 +79,13 @@
 ## Projects
 
 - 2021 - [**Taste of Spirits**](https://showcase.informatik.tha.de/sose2021/taste-of-spirits):
+[https://spirit-finder.com/]
+
   (Platz 3 im Wettbewerb Beste Semesterprojekte)
 
   **Ein Lexikon für über 50000 Spirituosen**
 - 2022 - [**Taste Of Spirits 2.0**](https://showcase.informatik.tha.de/sose-2022/taste-of-spirits-2-0):
+[https://spirit-finder.com/]
 
   **Mehr als nur ein Lexikon für über 50.000 Spirituosen, ein ganzes Wiki für die Welt der Spirituosen!**
 - 2023 - [**Singtonic Vocal Pop Ensemble**](https://singtonic.net/):
