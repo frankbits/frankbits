@@ -135,9 +135,6 @@
 - 2025 - [**Die Adventstraße**](https://adventstrasse.de/):
 
   **Book-Website built with SvelteKit**
-- 2026 - [**ödp - Stadtrat Memmingen**](https://oedp-mm.de/):
-
-  **"Political Party"-Website built with SvelteKit**
 - 2026 - [**Music in XR**](https://showcase.informatik.tha.de/wise-2025-26/music-in-xr):\
 (Platz 1 im Wettbewerb Beste Semesterprojekte)
 
@@ -146,6 +143,9 @@
 - 2026 - [**BodyBlocks**](https://bodyblocks.pages.dev/):
 
   **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
+- 2026 - [**ödp - Stadtrat Memmingen**](https://oedp-mm.de/):
+
+  **"Political Party"-Website built with SvelteKit**
 
 </details>
 
