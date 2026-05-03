@@ -12,7 +12,7 @@
 </p>
 
 <div class="stats" align="center">
-  <a href="#"><img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=frankbits&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img alt="github-stats" src="https://github-readme-stats-peach-pi.vercel.app/api?username=frankbits&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </div>
 
 <!-- <p align='center'>
