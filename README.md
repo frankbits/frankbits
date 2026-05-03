@@ -12,8 +12,8 @@
 </p>
 
 <div class="stats" align="center">
-  <a href="https://github.com/frankbits"><img alt="github-stats" src="https://github-readme-stats-peach-pi.vercel.app/api?username=frankbits&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="https://github.com/frankbits"><img alt="github-stats" src="https://github-readme-stats-peach-pi.vercel.app/api/top-langs/?username=frankbits&layout=compact&size_weight=0&count_weight=1&theme=dark" width="350"></a>
+    <a href="https://github.com/frankbits"><img alt="github-stats" src="https://github-readme-stats-peach-pi.vercel.app/api?username=frankbits&show_icons=true&count_private=true&theme=dark" height="160"></a>
+    <a href="https://github.com/frankbits"><img alt="github-stats" src="https://github-readme-stats-peach-pi.vercel.app/api/top-langs/?username=frankbits&layout=compact&size_weight=0&count_weight=1&theme=dark" height="160"></a>
 </div>
 
 <!-- <p align='center'>
