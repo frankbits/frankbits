@@ -28,16 +28,20 @@
 ## Setup
 
 <div class="operating-systems">
-        <b>Operating Systems</b>
-        <br>
-        <a href="https://www.microsoft.com/de-de/windows">
-            <img alt="Windows"
-                 src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-        </a>
-        <a href="https://ubuntu.com">
-            <img alt="Ubuntu"
-                 src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-        </a>
+    <b>Operating Systems</b>
+    <br>
+    <a href="https://www.microsoft.com/de-de/windows">
+        <img alt="Windows"
+             src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white">
+    </a>
+    <a href="https://fedoraproject.org/workstation/">
+        <img alt="Fedora"
+             src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white">
+    </a>
+    <a href="https://ubuntu.com/server">
+        <img alt="Ubuntu Server"
+             src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+    </a>
 </div>
 
 <br>
@@ -45,32 +49,57 @@
 <div class="browser">
     <b>Browser</b>
     <br>
+    <a href="https://www.chrome.com/">
+        <img alt="Chrome"
+             src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
+    </a>
+    <a href="https://www.firefox.com/">
+        <img alt="Firefox"
+             src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white">
+    </a>
     <a href="https://www.opera.com/">
         <img alt="Opera"
-             src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
+             src="https://img.shields.io/badge/Opera-grey?style=flat-square&logo=Opera&logoColor=lightgrey">
     </a>
+    <!--<a href="https://www.opera.com/">
+        <img alt="Opera"
+             src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
+    </a>-->
 </div>
 
 <br>
 
 <div class="ide">
-    <b>IDE, Editor, Engine</b>
+    <b>IDE, Editor</b>
     <br>
     <a href="https://www.jetbrains.com/">
         <img alt="JetBrains"
              src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white">
     </a>
+    <a href="https://www.jetbrains.com/idea/">
+        <img alt="IntelliJ"
+             src="https://img.shields.io/badge/IntelliJIDEA-181717.svg?style=flat-square&logo=intellij-idea&logoColor=white">
+    </a>
     <a href="https://www.jetbrains.com/phpstorm/">
         <img alt="PhpStorm"
              src="http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white">
+    </a>
+    <a href="https://www.jetbrains.com/rider/">
+        <img alt="Rider"
+             src="https://img.shields.io/badge/Rider-181717?style=flat-square&logo=rider&logoColor=white">
     </a>
     <a href="https://notepad-plus-plus.org">
         <img alt="Notepad++"
              src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black">
     </a>
-    <a href="https://godotengine.org">
-        <img alt="Godot"
-             src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white">
+</div>
+
+<div class="etc">
+    <b>etc.</b>
+    <br>
+    <a href="https://obsidian.md/">
+        <img alt="Obsidian"
+             src="https://img.shields.io/badge/Obsidian-%23483699.svg?&style=flat-square&logo=obsidian&logoColor=white">
     </a>
 </div>
 
@@ -214,12 +243,31 @@
 
 <br>
 
+<div class="engine">
+    <b>Game-Engine</b>
+    <br>
+    <a href="https://unity.com/">
+        <img alt="Unity"
+             src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
+    </a>
+    <a href="https://godotengine.org">
+        <img alt="Godot"
+             src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white">
+    </a>
+</div>
+
+<br>
+
 <div class="etc">
     <b>etc.</b>
     <br>
     <a href="https://daringfireball.net/projects/markdown/">
         <img alt="Markdown"
              src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown">
+    </a>
+    <a href="https://yaml.org/">
+        <img alt="YAML"
+             src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white">
     </a>
     <a href="https://github.com/sveltia/sveltia-cms">
         <img alt="Sveltia CMS"
