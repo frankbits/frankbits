@@ -143,9 +143,6 @@
 
   **Musik in AR & VR erleben**\
   Project at [THA](https://www.tha.de/)
-- 2026 - [**Music in XR**](https://bodyblocks.pages.dev/):
-
-  **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
 - 2026 - [**BodyBlocks**](https://bodyblocks.pages.dev/):
 
   **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
