@@ -113,12 +113,14 @@
 - 2021 - [**Taste of Spirits**](https://showcase.informatik.tha.de/sose2021/taste-of-spirits):\
 (Platz 3 im Wettbewerb Beste Semesterprojekte)
 
-  **Ein Lexikon für über 50000 Spirituosen**
+  **Ein Lexikon für über 50000 Spirituosen**\
+  Project at [THA](https://www.tha.de/)
   
   [Spirit-Finder.com](https://spirit-finder.com/)
 - 2022 - [**Taste Of Spirits 2.0**](https://showcase.informatik.tha.de/sose-2022/taste-of-spirits-2-0):
 
-  **Mehr als nur ein Lexikon für über 50.000 Spirituosen, ein ganzes Wiki für die Welt der Spirituosen!**
+  **Mehr als nur ein Lexikon für über 50.000 Spirituosen, ein ganzes Wiki für die Welt der Spirituosen!**\
+  Project at [THA](https://www.tha.de/)
 
   [Spirit-Finder.com](https://spirit-finder.com/)
 - 2023 - [**Singtonic Vocal Pop Ensemble**](https://singtonic.net/):
@@ -127,6 +129,26 @@
 - 2023 - [**Anette Niedermeier**](https://anetteniedermeier.de/):
 
   **Artist-Website built with SvelteKit**
+- 2025 - **3D VR mini-golf game**:
+
+  **"Introduction to Virtual Reality"-Project at [THA](https://www.tha.de/)**
+- 2025 - [**Die Adventstraße**](https://adventstrasse.de/):
+
+  **Book-Website built with SvelteKit**
+- 2026 - [**ödp - Stadtrat Memmingen**](https://oedp-mm.de/):
+
+  **"Political Party"-Website built with SvelteKit**
+- 2026 - [**Music in XR**](https://showcase.informatik.tha.de/wise-2025-26/music-in-xr):\
+(Platz 1 im Wettbewerb Beste Semesterprojekte)
+
+  **Musik in AR & VR erleben**\
+  Project at [THA](https://www.tha.de/)
+- 2026 - [**Music in XR**](https://bodyblocks.pages.dev/):
+
+  **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
+- 2026 - [**BodyBlocks**](https://bodyblocks.pages.dev/):
+
+  **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
 
 </details>
 
