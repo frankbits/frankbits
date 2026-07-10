@@ -140,6 +140,8 @@
 
   **Musik in AR & VR erleben**\
   Project at [THA](https://www.tha.de/)
+
+  [LoopLines](https://frankbits.itch.io/looplines)
 - 2026 - [**BodyBlocks**](https://bodyblocks.pages.dev/):
 
   **"Human-Computer-Interaction"-Project at [THA](https://www.tha.de/)**
